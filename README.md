@@ -9,5 +9,5 @@ Python developer. Building software commercially since 2021.
 
 **Also:** C#/.NET, Java, JavaScript, MySQL, REST API, QA (web, iOS, Android)
 
-**Projects:** [Lamnezia](https://github.com/AGLamake/Lamnezia) — self-hosted web panel for Amnezia VPN servers  
+**Project:** [Lamnezia](https://github.com/AGLamake/Lamnezia) — self-hosted web panel for Amnezia VPN servers  
 **Contributed:** [FableMenu](https://github.com/AGLamake/FableMenu) — mod menu for Fable (C++)
